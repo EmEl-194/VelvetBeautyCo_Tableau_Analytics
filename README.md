@@ -43,12 +43,12 @@ Relationships were defined using primary and foreign keys to ensure integrity.
 - Dashboard storytelling and layout optimisation  
 
 ## Files
-- `Velvet Beauty.twbx` – packaged Tableau workbook  
-- `VelvetBeautyCo2024_2025.xlsx` – dataset  
-- `VelvetBeauty_DashboardOverview` – dashboard screenshot 
+- [Velvet%20Beauty.twb](Velvet%20Beauty.twb) – packaged Tableau workbook  
+- [VelvetBeautyCo2024_2025.xlsx](VelvetBeautyCo2024_2025.xlsx) – dataset  
+- [VelvetBeauty_DashboardOverview](VelvetBeauty_DashboardOverview.png) – dashboard screenshot 
 
 ## Usage
-1. Download the `.twbx` file.  
+1. Download the `.twb` file.  
 2. Open in Tableau Desktop or Tableau Public.  
 3. Use filters for Year, Campaign, Category, and Channel to explore insights.
 
